@@ -187,6 +187,21 @@ nav a{
          width: 165px;
   }
 
+  footer{
+    border-radius: 8px;
+    background: #FFF4E7;
+    margin: 0px 200px;
+    
+  }
+
+  footer p{
+     color: #424242;
+     text-align: center;
+     font-size: 1.5rem;
+     font-weight: 400;
+     padding: 30px;
+  }
+
        
        
    
